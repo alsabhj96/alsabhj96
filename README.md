@@ -1,7 +1,17 @@
 <h1>Hi👋 , I'm Alisha! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional</a></h1>
 
-I am a certified cybersecurity professional with a strong background in Information Technology. Having completed the CompTIA Security+ certification and the Springboard Cybersecurity Career Course, I'm dedicated to applying my skills and knowledge to protect organizations from evolving cyber threats.
+I hold a bachelor's degree in Information Technology from Asia Pacific University. Having completed the CompTIA Security+ certification and the Springboard Cybersecurity Career Course, I'm dedicated to applying my skills and knowledge to protect organizations from evolving cyber threats.
 With the completion of labs and projects, I’ve acquired proficiency in system security, network security, vulnerability management, and risk assessments, applying these skills in real-world cybersecurity scenarios. My goal is to transition into a role where I can contribute to enhancing cybersecurity measures and safeguarding digital assets.
+
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+
+  <b>Penetration Test Capstone Overview </b>
+  - Phase 1: Perform Reconnaissance of the Client and the Perimeter Network
+  - Phase 2: Identify Targets and Run Scans
+  - Phase 3: Identify Vulnerabilities
+  - Phase 4: Threat Assessment
+  - Phase 5: Final Reports
+
 <!---
 ## Skills
 
