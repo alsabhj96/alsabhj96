@@ -1,5 +1,4 @@
-# Hello 👋 , I'm Alisha Bhujel
-<a href="https://www.linkedin.com/in/alishabhujel48/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1>Hi👋 , I'm Alisha! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional</a></h1>
 
 I am a certified cybersecurity professional with a strong background in Information Technology. Having completed the CompTIA Security+ certification and the Springboard Cybersecurity Career Course, I'm dedicated to applying my skills and knowledge to protect organizations from evolving cyber threats.
 With the completion of labs and projects, I’ve acquired proficiency in system security, network security, vulnerability management, and risk assessments, applying these skills in real-world cybersecurity scenarios. My goal is to transition into a role where I can contribute to enhancing cybersecurity measures and safeguarding digital assets.
