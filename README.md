@@ -59,6 +59,15 @@ With the completion of labs and projects, I’ve acquired proficiency in system 
 <a href="https://github.com/user-attachments/assets/88689a57-072c-4f6d-b505-4c819ae03878"> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> </a>
 </div> 
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Alisha Bhujel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alisha Bhujel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/alsa.bhj_/
+[linkedin]: https://www.linkedin.com/in/alishabhujel48/
+
+
 <!---
 ## Projects
 - [Detection Lab](https://github.com/Ali-CyberSec/SIEM-Implementation-and-Log-Analysis)
