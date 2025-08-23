@@ -5,21 +5,26 @@ I hold a Bachelor's degree in Information Technology 🎓 from Asia Pacific Univ
 
 ## 👩‍💻 Cybersecurity Projects
 
-### 🔐 Penetration Test Capstone
+### Active Directory HomeLab 
+- [📄 Full Report](https://github.com/alsabhj96/ActiveDirectoryHomeLab)
+- **Skills:** Reconnaissance, Vulnerability Scanning, Threat Assessment  
+- **Outcome:** Delivered executive & technical reports with remediation steps  
+
+### Penetration Test Capstone
 - [📄 Full Report](https://github.com/Ali-CyberSec/PenTest-Capstone)
 - **Skills:** Reconnaissance, Vulnerability Scanning, Threat Assessment  
 - **Outcome:** Delivered executive & technical reports with remediation steps  
 
----
 
-### 🛰️ Honeypot Deployment on AWS
+
+### Honeypot Deployment on AWS
 - [🔗 Repo](https://github.com/Ali-CyberSec/-Honeypot-Deployment-on-AWS)  
 - **Skills:** Cloud Security, Intrusion Detection, Log Analysis  
 - **Outcome:** Deployed T-Pot Honeypot on AWS and monitored attack patterns  
 
 ---
 
-### 📊 SIEM Implementation & Log Analysis
+### SIEM Implementation & Log Analysis
 - [🔗 Repo](https://github.com/Ali-CyberSec/SIEM-Implementation-and-Log-Analysis)  
 - **Skills:** Splunk, ELK, Security Monitoring  
 - **Outcome:** Built a detection lab, collected logs, and identified threats  
