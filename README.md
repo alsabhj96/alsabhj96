@@ -7,14 +7,13 @@ I hold a Bachelor's degree in Information Technology 🎓 from Asia Pacific Univ
 
 ### Active Directory HomeLab 
 - [📄 Full Report](https://github.com/alsabhj96/ActiveDirectoryHomeLab)
-- **Skills:** Reconnaissance, Vulnerability Scanning, Threat Assessment  
-- **Outcome:** Delivered executive & technical reports with remediation steps  
+- **Skills:** Virtualization (VirtualBox), Windows Server Administration, Active Directory (AD), DNS, Networking, Group Policy, User Management 
+- **Outcome:** Configured a Windows Server 2019 Domain Controller and joined a Windows 10 client to the domain, demonstrating centralized authentication, policy enforcement, and real-world enterprise IT workflows
 
 ### Penetration Test Capstone
 - [📄 Full Report](https://github.com/Ali-CyberSec/PenTest-Capstone)
 - **Skills:** Reconnaissance, Vulnerability Scanning, Threat Assessment  
 - **Outcome:** Delivered executive & technical reports with remediation steps  
-
 
 
 ### Honeypot Deployment on AWS
