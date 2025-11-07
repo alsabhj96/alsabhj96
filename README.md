@@ -1,6 +1,12 @@
 <h1>Hi👋 , I'm Alisha! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
 
-I hold a Bachelor's degree in Information Technology 🎓 from Asia Pacific University and have completed multiple certifications to strengthen my foundation in cybersecurity, including CompTIA Security+🛡️, the Springboard Cybersecurity Career Course, and the LaGuardia Cybersecurity Specialist Certification. I continue to enhance my skills through hands-on practice on platforms like TryHackMe, applying my knowledge in system and network security, vulnerability management, and risk assessments🔍. Passionate about cybersecurity, I enjoy bridging theoretical knowledge with practical, real-world defense strategies, and I am eager to contribute my expertise to protecting organizations from evolving threats🚀.
+- 🎓 Bachelor's in Information Technology – Asia Pacific University
+- 🛡️ CompTIA Security+ Certified
+- 🔒 CompTIA CySA+ (In Progress)
+- 💻 Springboard Cybersecurity Bootcamp Graduate
+- 🏅 LaGuardia Cybersecurity Specialist Certification
+
+Passionate about cybersecurity, I enjoy bridging theory with real-world defense strategies. I focus on threat detection, incident response, and protecting organizations from evolving cyber threats.
 
 
 ## 👩‍💻 Cybersecurity Projects
