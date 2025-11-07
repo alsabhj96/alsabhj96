@@ -1,4 +1,4 @@
-<h1>Hi👋 , I'm Alisha! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
+<h1>Hi👋 , I'm Alisha Bhujel! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
 
 - 🎓 Bachelor's in Information Technology – Asia Pacific University
 - 🛡️ CompTIA Security+ Certified
