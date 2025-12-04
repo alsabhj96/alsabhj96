@@ -15,7 +15,7 @@ Passionate about cybersecurity, I enjoy bridging theory with real-world defense 
 ## 👩‍💻 Cybersecurity Projects
 
 ### Active Directory HomeLab 
-- [📄 Full Report](https://github.com/alsabhj96/ActiveDirectoryHomeLab)
+- [📄 Full Report](./adlab.md)
 - **Skills:** Virtualization, Windows Server Administration, Active Directory (AD), DNS, Networking, Group Policy, User Management 
 - **Outcome:** Configured a Windows Server 2019 Domain Controller and joined a Windows 10 client to the domain, demonstrating centralized authentication, policy enforcement, and real-world enterprise IT workflows
 
