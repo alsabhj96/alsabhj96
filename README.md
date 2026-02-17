@@ -1,12 +1,9 @@
 <h1>Hi👋 , I'm Alisha Bhujel! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
+- 🛡️🔒 CompTIA CySA+ Certified | CompTIA Security+ Certified | Splunk Core Certified Power User
 
-- 🎓 Bachelor's in Information Technology – Asia Pacific University
-- 🛡️ CompTIA Security+ - Certified
-- 🔒 CompTIA CySA+ - In Progress
-- 📊 Splunk Core Certified Power User – In Progress
-- 💻 Springboard Cybersecurity Bootcamp - Graduate
-- 🧠 Cybersecurity Analyst Training, Per Scholas -In Progress
-- 🏅 LaGuardia Cybersecurity Specialist Certification - Completed
+- 🎓 Bachelor's in Information Technology, Asia Pacific University
+  
+- 💻🧠 Cybersecurity Bootcamp, Springboard | Cybersecurity Analyst Training, Per Scholas | Cybersecurity Specialist Certification, LaGuardia Community College
 
 
 Passionate about cybersecurity, I enjoy bridging theory with real-world defense strategies. I focus on threat detection, incident response, and protecting organizations from evolving cyber threats.
