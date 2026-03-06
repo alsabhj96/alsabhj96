@@ -1,13 +1,33 @@
 <h1>Hi👋 , I'm Alisha Bhujel! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
-- 🛡️🔒 CompTIA CySA+ Certified | CompTIA Security+ Certified | Splunk Core Certified Power User
 
-- 🎓 Bachelor's in Information Technology, Asia Pacific University
+Passionate about cybersecurity, I enjoy bridging theory with real-world defense strategies. I focus on threat detection, incident response, and protecting organizations from evolving cyber threats. 
+
+</br>
+- 🔒 CompTIA CySA+ Certified | CompTIA Security+ Certified | Splunk Core Certified Power User </br>
+- 🎓 Bachelor's in Information Technology, Asia Pacific University <br/>
+- 💻 Cybersecurity Bootcamp, Springboard | Cybersecurity Analyst Training, Per Scholas | Cybersecurity Specialist Certification, LaGuardia Community College
+
+
+
+
+
+<h2 align="center">📜 Certifications</h2>
+
+<p align="center">
   
-- 💻🧠 Cybersecurity Bootcamp, Springboard | Cybersecurity Analyst Training, Per Scholas | Cybersecurity Specialist Certification, LaGuardia Community College
+  <a href="https://www.credly.com/earner/earned/badge/9bb8bead-7b77-4be9-8e67-31a0615e6ee6" target="_blank">
+    <img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
+  </a>
 
+  <a href="https://www.credly.com/earner/earned/badge/e9f01fad-eae8-485d-ac11-ad34b078d09a" target="_blank">
+    <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  </a>
 
-Passionate about cybersecurity, I enjoy bridging theory with real-world defense strategies. I focus on threat detection, incident response, and protecting organizations from evolving cyber threats.
+  <a href="https://www.credly.com/badges/37f70005-6668-4d4a-8388-a1338423161b/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
+  </a>
 
+</p>
 
 ## 👩‍💻 Cybersecurity Projects
 
@@ -36,26 +56,52 @@ Passionate about cybersecurity, I enjoy bridging theory with real-world defense 
 
 ---
 
-<h2 align="center">📜 Certifications</h2>
-<p align="center">
-  <a href="SECURITY+_LINK">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  </a>
-  <a href="COURSE_LINK">
-    <img src="https://github.com/user-attachments/assets/bb4d2bb8-54a2-4792-bfa6-8061fda5b754" width="120" height="28"/>
-  </a>
-  <a href="GOOGLE_CERT_LINK">
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-</p>
-<!---
-## Certifications
-<div>
-<a href="https://github.com/user-attachments/assets/16a46fe8-5991-4cbd-8490-f6e048a0e23d"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
-<a href="https://drive.google.com/file/d/1pDii3lBijCcvSEyznHpWBgKssIYjvlaL/view?usp=drive_link"> <img src="https://github.com/user-attachments/assets/bb4d2bb8-54a2-4792-bfa6-8061fda5b754" width="120" height="28"/> </a>
-<a href="https://github.com/user-attachments/assets/88689a57-072c-4f6d-b505-4c819ae03878"> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> </a>
-</div> 
--->
+
+## 🛠 Skills & Tools
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+### 🛡 Security Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1A73E8?style=for-the-badge&logo=servicenow&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+---
+
+### 🌐 Networking & Security
+![Firewalls](https://img.shields.io/badge/Firewalls-FF0000?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-800080?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-4B0082?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-228B22?style=for-the-badge)
+![MFA](https://img.shields.io/badge/MFA-2E8B57?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge)
+
+---
+
+### ☁ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📋 Frameworks
+![NIST](https://img.shields.io/badge/NIST-CSF-blue?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+
+
+
+
 
 ## 💡 Soft Skills
 |                       |                       |
@@ -64,6 +110,8 @@ Passionate about cybersecurity, I enjoy bridging theory with real-world defense 
 | Problem-Solving       | Communication Skills  |
 | Team Collaboration    | Adaptability          |
 | Critical Thinking     | Time Management       |
+
+
 
 
 ## 🤝 Connect with Me 🤳
