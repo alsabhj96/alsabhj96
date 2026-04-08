@@ -1,4 +1,4 @@
-<h1>Hi👋 , I'm Alisha Bhujel! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Professional 👩‍💻 </a></h1>
+<h1>Hi👋 , I'm Alisha Bhujel! <br/> <a href="https://www.linkedin.com/in/alishabhujel48/">Cybersecurity Engineer 👩‍💻 </a></h1>
 
 Passionate about cybersecurity, I enjoy bridging theory with real-world defense strategies. I focus on threat detection, incident response, and protecting organizations from evolving cyber threats. 
 
@@ -117,7 +117,7 @@ Passionate about cybersecurity, I enjoy bridging theory with real-world defense 
 ## 🤝 Connect with Me 🤳
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alishabhujel48/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alsa.bhj_/)
-[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishabhujel2017@gmail.com)
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyz@gmail.com)
 
 
 <!---
